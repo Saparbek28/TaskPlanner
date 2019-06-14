@@ -1,0 +1,27 @@
+﻿<Window x:Class="TaskPlannerThread.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TaskPlannerThread"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <!--Button Content="Plan" FontSize="20" HorizontalAlignment="Center" Margin="0,300,0,0" VerticalAlignment="Top" Width="120" Click="PlanButtonClick" Height="40"/>-->
+        <ComboBox HorizontalAlignment="Center" Margin="574,43,38,0" VerticalAlignment="Top" Width="180" Name="WorkTypeComboBox" SelectionChanged="jobTypeComboBox_SelectionChanged">
+            <TextBlock>Отправка Email</TextBlock>
+            <TextBlock>Скачка файла</TextBlock>
+            <!--<TextBlock>Перемещение каталога</TextBlock>-->
+        </ComboBox>
+        <ComboBox HorizontalAlignment="Center" Margin="327,43,285,0" VerticalAlignment="Top" Width="180" Name="TimeComboBox" SelectionChanged="repeatComboBox_SelectionChanged">
+            <TextBlock>Раз в неделю</TextBlock>
+            <TextBlock>Раз в месяц</TextBlock>
+            <TextBlock>Раз в год</TextBlock>
+        </ComboBox>
+        <!--<TextBlock HorizontalAlignment="Left" Margin="85,13,0,0" TextWrapping="Wrap" Text="Task" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="43,60,0,0" TextWrapping="Wrap" Text="Date of Task" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="70,233,0,0" TextWrapping="Wrap" Text="Repeat" VerticalAlignment="Top"/>-->
+        <Calendar HorizontalAlignment="Center" Margin="29,32,484,0" VerticalAlignment="Top" IsTodayHighlighted="False" Name="calendar" Width="279"/>
+        <Button Content="to blast" HorizontalAlignment="Left" Height="35" Margin="602,330,0,0" VerticalAlignment="Top" Width="124" Click="Button_Click"/>
+    </Grid>
+</Window>

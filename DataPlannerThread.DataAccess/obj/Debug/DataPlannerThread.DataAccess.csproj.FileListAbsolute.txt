@@ -1,0 +1,2 @@
+C:\Users\БайназарС\source\repos\TaskPlannerThread\DataPlannerThread.DataAccess\obj\Debug\DataPlannerThread.DataAccess.csprojAssemblyReference.cache
+C:\Users\БайназарС\source\repos\TaskPlannerThread\DataPlannerThread.DataAccess\obj\Debug\DataPlannerThread.DataAccess.csproj.CoreCompileInputs.cache

@@ -1,0 +1,2 @@
+C:\Users\БайназарС\source\repos\TaskPlannerThread\TaskPlannerThread.Models\obj\Debug\TaskPlannerThread.Models.csprojAssemblyReference.cache
+C:\Users\БайназарС\source\repos\TaskPlannerThread\TaskPlannerThread.Models\obj\Debug\TaskPlannerThread.Models.csproj.CoreCompileInputs.cache

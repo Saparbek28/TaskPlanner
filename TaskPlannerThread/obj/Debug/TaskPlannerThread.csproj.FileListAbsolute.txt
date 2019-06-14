@@ -1,0 +1,5 @@
+C:\Users\БайназарС\source\repos\TaskPlannerThread\TaskPlannerThread\obj\Debug\TaskPlannerThread.csprojAssemblyReference.cache
+C:\Users\БайназарС\source\repos\TaskPlannerThread\TaskPlannerThread\obj\Debug\MainWindow.g.cs
+C:\Users\БайназарС\source\repos\TaskPlannerThread\TaskPlannerThread\obj\Debug\App.g.cs
+C:\Users\БайназарС\source\repos\TaskPlannerThread\TaskPlannerThread\obj\Debug\TaskPlannerThread_MarkupCompile.cache
+C:\Users\БайназарС\source\repos\TaskPlannerThread\TaskPlannerThread\obj\Debug\TaskPlannerThread_MarkupCompile.lref
